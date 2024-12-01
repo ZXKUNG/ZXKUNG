@@ -3,6 +3,7 @@
 1. Discord : https://discord.com/invite/HXeWN54Adk
 2. Youtube : https://www.youtube.com/@zx_kung
 3. Bio : https://linktr.ee/zxkung
+4. Bio V2 : https://xenzy.xyz
 # 🔥 LINK โหลดไฟล์ต่างๆ 🔥
 ---
 # วิธีลง Fabric ModLoader มายคราฟ 1.21 - Minecraft <img src="https://i.redd.it/hpi2fcsou3471.png" alt="ตัวอย่าง" width="40" height="40">
