@@ -17,4 +17,4 @@
 1. link : https://papermc.io/downloads/paper
 2. link : https://www.oracle.com/java/technologies/downloads/#jdk23-windows
 3. link : https://gist.github.com/osipxd/6119732e30059241c2192c4a8d2218d9
-4. ---
+---
