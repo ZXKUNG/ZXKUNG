@@ -1,4 +1,4 @@
-![ตัวอย่าง GIF](https://xenzy.xyz/p/s002.gif)
+![ตัวอย่าง GIF](https://img2.pic.in.th/pic/1000120153.png)
 # BIO
 1. Discord : https://discord.com/invite/HXeWN54Adk
 2. Youtube : https://www.youtube.com/@zx_kung
